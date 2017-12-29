@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.loginback  { background-color:#dddddd; }
+.loginbox   { border : 1px solid #ccc; border-radius:12px; width: 300px; height:500px; margin:150px auto; background-color:#fff;padding:0} 
+.logintbox  { background-color:#eee;width:100%;margin-top:60px;height:40px;}
+.logintit   { line-height: 40px; color: #fff; padding-right: 15px; }
+.loginctrol { padding:20px 20px 15px 20px;}
+.logintail  { padding:20px 20px 15px 20px;}
+.loginarea  { padding:15px; background-color:#eee; border: 1px solid #ccc; border-radius:5px;}
+.logintext  { width:210px;height:25px;border:1px solid #ddd; border-radius:4px; padding:2px 2px 2px 15px; box-shadow: inset 0 1px 2px rgba(27,31,35,0.075);background-color:#faffbd; }
+.loginlabel { padding-left:28px;font-size:0.9em;line-height:40px; background:url('/images/icon/bullet/bul_001.gif') 5px 3px no-repeat;}
+.loginbutton{ width: 229px; height: 45px; color: #fff; background-color: #336699; background-image: linear-gradient(-180deg, #5088bf 0%, #336699 90%); margin-top: 15px; border: 1px solid #ccc; border-radius: 5px; }
+.logincopy  { padding:15px; background-color:#eee; border: 1px solid #ccc; border-radius:5px;}
+
+.body { background-color:#fff; }
+.bodyheader{ width : 100% }
+.bodyheader .top    {height:50px;}
+.bodyheader .top > div { width:80%;max-width :1024px; min-width:800px;}
+.bodyheader .menu {height:50px; background-color:#336699;}
+.bodyheader .menu > div { width:80%;max-width:1024px; min-width:800px;margin : 0 auto; color:#fff; line-height:50px;}
+.bodyheader .bottom {height:30px;background-color:#eee;border-bottom:1px solid #ccc;}
