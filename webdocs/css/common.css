@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,p,blockquote,th,td,input,select,textarea,button {margin:0;padding:0;}
+fieldset,img {border:0 none}
+dl,ul,ol,menu,li {list-style:none}
+blockquote, q {quotes:none}
+input,select,textarea,button {font-size:100%;vertical-align:middle}
+button {border:0 none;background-color:transparent;cursor:pointer;outline:none;vertical-align:top;}
+table {border-collapse:collapse;border-spacing:0}
+html,body{height:100%;font-size:1.2em;}
+caption,legend{display:none;}
+body {width:100%;letter-spacing:-.05em;-webkit-text-size-adjust:none;font-size:14px;}
+body,th,td,input,select,textarea,button{-webkit-text-size-adjust:14px;line-height:1.5;font-family:'Malgun Gothic', '맑은 고딕', sans-serif;color:#666;-webkit-text-size-adjust:none}
+a {color:#666;text-decoration:none}
+address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
+
+.textbox { border:1px solid #ddd; border-radius:4px; padding:2px 2px 2px 15px; box-shadow: inset 0 1px 2px rgba(27,31,35,0.075);}
+.bgsecret{ background-color:#faffbd; }
+
+
+/* 글자색 */ 
+.txtColor01{color:black}
+.txtColor02{color:white}
+.txtColor03{color:red}
+.txtColor04{color:blue}
+.txtColor05{color:orange}
+
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+
+.tal{text-align:left;}
+.tar{text-align:right;}
